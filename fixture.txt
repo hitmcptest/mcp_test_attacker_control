@@ -1,0 +1,1 @@
+Synthetic PR fixture A True 20260927-pr-attributes-hosted-22
